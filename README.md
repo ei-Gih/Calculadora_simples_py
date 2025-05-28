@@ -1,8 +1,8 @@
-# Calculadora em Python 🧮
+# 🧮 Calculadora em Python 
 
 Uma calculadora simples em Python que realiza operações matemáticas básicas em loop, com tratamento de erros e interface amigável no terminal.
 
-## Funcionalidades ✨
+## ✨ Funcionalidades 
 
 - **Operações disponíveis:**
 
@@ -20,11 +20,11 @@ Uma calculadora simples em Python que realiza operações matemáticas básicas 
   - Formatação de resultados decimais
   - Confirmação de saída
 
-## Pré-requisitos 📋
+## 📋 Pré-requisitos 
 
 - Python 3.x instalado
 
-## Como Executar ▶️
+## ▶️ Como Executar 
 
 1. Clone o repositório ou copie o código para um arquivo `calculadora.py`
 2. Execute no terminal:
@@ -32,7 +32,7 @@ Uma calculadora simples em Python que realiza operações matemáticas básicas 
    python calculadora.py
    ```
 
-## Uso 📖
+## 📖 Uso 
 
 Exemplo de fluxo:
 
@@ -54,7 +54,7 @@ Resultado: 2.6667
 Deseja fazer outra operação? (s/n): s
 ```
 
-## Tratamento de Erros 🛡️
+## 🛡️ Tratamento de Erros 
 
 O programa detecta e informa:
 
